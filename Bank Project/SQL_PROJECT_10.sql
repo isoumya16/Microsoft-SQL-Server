@@ -141,6 +141,7 @@ VALUES (2001, 'Rajesh Kumar'),
        (2009, 'Suresh Verma'),
        (2010, 'Rajesh Tiwari');
 
+// Checking the created tables.
 	   SELECT * FROM [dbo].[Account]
 	   SELECT * FROM [dbo].[Borrower]
 	   SELECT * FROM [dbo].[Branch]
